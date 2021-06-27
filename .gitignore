@@ -1,5 +1,11 @@
 .idea
 
+# projekty
+bill-splitter/
+
+# readme
+README.md
+
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
