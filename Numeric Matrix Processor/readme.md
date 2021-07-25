@@ -15,47 +15,7 @@ Watch a video about the inverse of a matrix to get the basic idea. To get a deep
 
 The identity matrix is a matrix where all elements of the main diagonal are ones, and other elements are zeros. Here is an example of a 4, 44,4 identity matrix:
 
-I_{4,4} = \begin{pmatrix} 1 & 0 & 0 &0\\ 0 & 1 & 0 &0 \\ 0 & 0 & 1&0 \\0 & 0 & 0 &1\end{pmatrix}I 
-4,4
-​
- = 
-⎝
-⎜
-⎜
-⎜
-⎛
-​
-  
-1
-0
-0
-0
-​
-  
-0
-1
-0
-0
-​
-  
-0
-0
-1
-0
-​
-  
-0
-0
-0
-1
-​
-  
-⎠
-⎟
-⎟
-⎟
-⎞
-​
+
  
 
 The inverse of a matrix can be found using this formula:
