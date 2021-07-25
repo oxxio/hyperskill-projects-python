@@ -16,18 +16,8 @@ Watch a video about the inverse of a matrix to get the basic idea. To get a deep
 The identity matrix is a matrix where all elements of the main diagonal are ones, and other elements are zeros. Here is an example of a 4, 44,4 identity matrix:
 
 
- 
-
 The inverse of a matrix can be found using this formula:
 
-A^{-1} = \dfrac{1}{det(A)} \times C^TA 
-−1
- = 
-det(A)
-1
-​
- ×C 
-T
  
 
 As you can see, it contains a lot of operations you implemented in the previous stages: finding cofactors of all the elements of the matrix, transposition of the matrix, finding the determinant of a matrix, and multiplication of a matrix by a constant.
